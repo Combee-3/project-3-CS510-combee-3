@@ -1,5 +1,6 @@
 # CS510 Project 3: MicroML-to-AST Translator
-    Bowen Madden
+  by Bowen Madden, Combee-3
+
 This project is a web-based application for parsing and visualizing Abstract Syntax Trees (AST) for the MicroML language described in the class textbook & homeworks. It allows users to input MicroML code, parse it into an AST, and display the tree structure visually on a web page.
 
 ## Features
@@ -57,6 +58,6 @@ This project is a web-based application for parsing and visualizing Abstract Syn
 This project uses the MIT license. See LICENSE.txt for details.
 
 ## Acknowledgements & Credit:
-The jsSyntaxTree library is used for rendering syntax trees in the frontend.
-Special thanks to the creators of FsLex and FsYacc for enabling the parsing functionality.
-I started with a code base written by my professor in-class, and after analyzing it, made edits of my own to fulfill the remaining requirements. This is a class project for learning purposes and personal experience.
+- The jsSyntaxTree library is used for rendering syntax trees in the frontend.
+- Special thanks to the creators of FsLex and FsYacc for enabling the parsing functionality.
+- I started with a code base written by my professor in-class, and after analyzing it, made edits of my own to fulfill the remaining requirements. This is a class project for learning purposes and personal experience.
